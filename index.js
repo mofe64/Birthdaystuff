@@ -1,5 +1,5 @@
 const messages = [
-  "Birthdays come around every year, but people like you only come once in a lifetime. I’m so glad you came into my life. Best wishes on your special day",
+  "Birthdays come around every year, but people like you only come once in a lifetime. Best wishes today b.",
   "I promise that the more birthday candles you blow, the more I will be here for you to celebrate every special event in your life. Happy birthday!",
   "One day a year isn’t enough to celebrate someone as special as you.",
   "Here’s hoping you have a birthday that’s as special and wonderful as you are.",
